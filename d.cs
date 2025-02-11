@@ -1,5 +1,4 @@
 // See https://aka.ms/new-console-template for more information
-
 static int Max(int[] l) {
     int max = int.MinValue;
     foreach (var num in l) {

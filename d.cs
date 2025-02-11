@@ -1,5 +1,4 @@
 // See https://aka.ms/new-console-template for more information
-using System.Collections.Immutable;
 
 static int Max(int[] l) {
     int max = int.MinValue;
